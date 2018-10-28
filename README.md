@@ -5,7 +5,7 @@
 
 ## Calibracion
 
-El sistema de calibración se compone de un botón que habilita una secuencia de encendido de apagado del motor en intervalos de 30 segundos.
+El sistema de calibración permite encender y detener el motor de forma absoluta.
 
 
 ## Build Setup
