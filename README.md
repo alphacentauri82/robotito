@@ -3,9 +3,9 @@
 > Tanque controlado por J5 y Nuxt
 
 
+## Calibracion
 
-
-
+El sistema de calibración se compone de un botón que habilita una secuencia de encendido de apagado del motor en intervalos de 30 segundos.
 
 
 ## Build Setup

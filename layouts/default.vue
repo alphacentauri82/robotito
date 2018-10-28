@@ -1,8 +1,6 @@
 <template>
   <div>
     <nuxt/>
-    <directions/>
-    <my-footer/>
   </div>
 </template>
 
